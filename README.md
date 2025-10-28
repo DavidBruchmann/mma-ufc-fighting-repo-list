@@ -11,7 +11,7 @@
  - https://github.com/valish/mma-api
  - https://github.com/onkyoh/mma-fights-api
 
-# Games
+## Games
 
  - https://github.com/BorislavNikolov/ASP.NET_Core
  - https://github.com/bludbruda1/mma-fighter
@@ -50,20 +50,20 @@
  - https://github.com/sergetun/UFC-Stats-Webscraper
  - https://github.com/rgumpper/MMA_data_prediction
 
-# Data Collections
+## Data Collections
 
  - https://github.com/grappler185/MMA
 
-# Parsers for Data
+## Parsers for Data
 
  - https://github.com/Montanaz0r/MMA-parser-for-Sherdog-and-UFC-data
 
-# Scoring / Ranking
+## Scoring / Ranking
 
  - https://github.com/infinitely0/mma-elo
  - https://github.com/ACompleteNoobSmoke/MMARanking
 
-# Fight Simulation
+## Fight Simulation
 
  - https://github.com/tydonk/fight_simulator
  - https://github.com/hoonn9/mma-simulator
