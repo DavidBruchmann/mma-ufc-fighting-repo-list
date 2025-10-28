@@ -83,6 +83,6 @@ If your repository is listed on this page and you like me to remove it,
 please just drop me a line or post in [issues](https://github.com/DavidBruchmann/mma-ufc-fighting-repo-list/issues).
 If your repository is not listed on this page and you like me to add it,
 please just drop me a line or post in [issues](https://github.com/DavidBruchmann/mma-ufc-fighting-repo-list/issues).
-Any further issues or topics can be posted in please just drop me a line or post in [issues](https://github.com/DavidBruchmann/mma-ufc-fighting-repo-list/issues)..
+Any further issues or topics can be posted in [issues](https://github.com/DavidBruchmann/mma-ufc-fighting-repo-list/issues)..
 
 About tracking / cookies or anything else, please consult the policies of github.
